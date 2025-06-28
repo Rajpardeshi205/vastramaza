@@ -1,0 +1,63 @@
+```markdown
+. 📂 e-store
+├── 📄 README.md
+├── 📄 bash.exe.stackdump
+├── 📄 eslint.config.mjs
+├── 📄 firebase.js
+├── 📄 jsconfig.json
+├── 📄 next.config.mjs
+├── 📄 package.json
+├── 📄 postcss.config.mjs
+└── 📂 public/
+│  ├── 📄 file.svg
+│  ├── 📄 globe.svg
+│  ├── 📄 next.svg
+│  ├── 📄 vercel.svg
+│  ├── 📄 window.svg
+└── 📂 src/
+│  └── 📂 Components/
+│    ├── 📄 Container.jsx
+│    ├── 📄 Footer.jsx
+│    ├── 📄 Header.jsx
+│    └── 📂 Home/
+│      ├── 📄 FeaturedProducts.jsx
+│      ├── 📄 HeroSection.jsx
+│      ├── 📄 RecentlyAdded.jsx
+│      ├── 📄 Slider.jsx
+│    ├── 📄 ProductBox.jsx
+│  ├── 📄 TransitionLink.jsx
+│  ├── 📄 animationVariants.js
+│  └── 📂 app/
+│    └── 📂 Cart/
+│      ├── 📄 page.jsx
+│    ├── 📄 Loader.jsx
+│    ├── 📄 Loading.jsx
+│    └── 📂 MyOrders/
+│      ├── 📄 page.jsx
+│    └── 📂 Store/
+│      ├── 📄 ProductGrid.jsx
+│      └── 📂 Sections/
+│        ├── 📄 CatSec.jsx
+│        ├── 📄 PriceSec.jsx
+│        ├── 📄 SizeSec.jsx
+│        ├── 📄 ThemeSec.jsx
+│      ├── 📄 page.jsx
+│      └── 📂 productdetails/
+│        └── 📂 [productId]/
+│          ├── 📄 page.jsx
+│    ├── 📄 favicon.ico
+│    ├── 📄 globals.css
+│    ├── 📄 layout.jsx
+│    ├── 📄 page.jsx
+│    └── 📂 sign-in/
+│      └── 📂 [[...rest]]/
+│        ├── 📄 layout.jsx
+│        ├── 📄 page.jsx
+│    └── 📂 sign-up/
+│      └── 📂 [[...rest]]/
+│        ├── 📄 page.jsx
+│  └── 📂 pages/
+│  ├── 📄 products.js
+│  ├── 📄 tailwind.config.js
+└── 📄 yarn.lock
+```
